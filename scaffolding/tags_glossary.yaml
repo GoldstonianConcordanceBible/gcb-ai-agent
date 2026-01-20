@@ -1,0 +1,17 @@
+tags:
+  COVENANT: { meaning: "God’s binding relationship; promised obligations + protections.", use_when: "Covenant making, fidelity, legal-love." }
+  HOLINESS: { meaning: "Set-apartness; cleansing, nearness, devotion.", use_when: "Clean/unclean, sanctuary, consecration." }
+  JUSTICE: { meaning: "Right order; fair judgment; protection of vulnerable.", use_when: "Courts, weights, oppression, restitution." }
+  WORSHIP: { meaning: "Right response to God—prayer, praise, obedience.", use_when: "Devotion, reverence, liturgical patterns." }
+  LEADERSHIP: { meaning: "Stewardship and authority under God; shepherd responsibility.", use_when: "Kings/judges/elders; drift." }
+  FAMILY: { meaning: "Household discipleship and generational repair.", use_when: "Lineage, blessing/trauma, inheritance." }
+  MONEY: { meaning: "Integrity in resources: honest weights, debt, wages.", use_when: "Debt, trade, stewardship." }
+  MERCY: { meaning: "Compassion that protects and restores without enabling evil.", use_when: "Widow/orphan/stranger; restoration." }
+  EXILE: { meaning: "Displacement consequences + hope of return.", use_when: "Collapse, remnant, repentance." }
+  TEMPLE: { meaning: "Sacred dwelling/center—presence, order, worship.", use_when: "Sanctuary, priesthood, rebuilding." }
+  KINGDOM: { meaning: "God’s reign expressed in covenant life and justice.", use_when: "Obedience, community order." }
+  MESSIAH_THREAD: { meaning: "Forward promise line toward Messiah horizon.", use_when: "Prophecy, typology, redemptive arc." }
+  PROPHETIC_FIRE: { meaning: "Truth exposing corruption and calling repentance.", use_when: "Warnings, reform, confrontation." }
+  CANON_REASONING: { meaning: "How traditions discern canon; include/debate texts.", use_when: "Canon maps and disputes." }
+  INTERFAITH_BRIDGE: { meaning: "Respectful dialogue across traditions.", use_when: "Comparisons with respect rules." }
+  SKEPTIC_QA: { meaning: "Steelman objections + grounded responses.", use_when: "Hard questions, credibility challenges." }
