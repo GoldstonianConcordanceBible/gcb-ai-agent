@@ -1,0 +1,19 @@
+chapter_id: "VOL1-CH01"
+title: "Chapter Title"
+purpose_thesis: "1–2 sentences."
+key_claims:
+  - "Claim 1"
+  - "Claim 2"
+anchor_passages:
+  - "John 1:1"
+  - "Psalm 119:105"
+cross_links:
+  - "VOL1-CH05"
+  - "TOPIC:COVENANT"
+objections:
+  - "Objection: ..."
+walk_actions:
+  - "Action: ..."
+tags:
+  - "COVENANT"
+  - "WORSHIP"
